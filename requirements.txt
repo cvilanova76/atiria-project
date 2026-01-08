@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+# Add pdf extraction libraries if you use them later:
+# pdfplumber
+# pypdf
